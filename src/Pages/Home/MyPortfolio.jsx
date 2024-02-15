@@ -24,7 +24,7 @@ export default function MyPortfolio() {
                 fill="currentColor"
               />
             </svg>
-            <a href="https://github.com/manoharjha26" target="_blank" className="github-btn">Visit My GitHub</a>
+            <a href="https://github.com/manoharjha26" className="github-btn">Visit My GitHub</a>
             
           </button>
         </div>
@@ -40,6 +40,7 @@ export default function MyPortfolio() {
                 <h3 className="portfolio--section--title">{item.title}</h3>
                 <p className="text-md">{item.description}</p>
               </div>
+              <a href="https://github.com/manoharjha26" className="li">
               <p className="text-sm portfolio--link">
                 {item.link}
                 <svg
@@ -58,6 +59,7 @@ export default function MyPortfolio() {
                   />
                 </svg>
               </p>
+              </a>
             </div>
           </div>
         ))}

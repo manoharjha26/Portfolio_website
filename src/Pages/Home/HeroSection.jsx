@@ -14,12 +14,12 @@ export default function HeroSection() {
             <br /> Dolorum, quas. Amet soluta assumenda cum?
           </p>
         </div>
-        <button className="btn btn-primaryi">
+        <button className="btn btn-primary">
           <a href="https://www.canva.com/design/DAFskNMCOS4/7VAJsxTMYtSFp-Sufm21hg/view?utm_content=DAFskNMCOS4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" className="github-btn btn-h">Resume</a>
         </button>
       </div>
       <div className="hero--section--img">
-        <img src="./img/hero_img.png" alt="Hero Section" />
+        <img src="./img/hero_img.jpg" alt="Hero Section" />
       </div>
     </section>
   );
