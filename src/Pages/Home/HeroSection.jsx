@@ -16,7 +16,7 @@ export default function HeroSection() {
         </div>
         <button className="btn btn-primary">
           <a
-            href="https://www.canva.com/design/DAFskOYv8og/jw6rsp8Zkwzl30M1lRrSKg/view?utm_content=DAFskOYv8og&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+            href="#"
             className="github-btn btn-h"
           >
             Resume
