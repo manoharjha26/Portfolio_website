@@ -62,19 +62,6 @@ function Footer() {
                 Contact
               </Link>
             </li>
-            <li>
-              <Link
-                activeClass="navbar--active-content"
-                spy={true}
-                smooth={true}
-                offset={-70}
-                duration={500}
-                to="testimonial"
-                className="text-md"
-              >
-                Testimonials
-              </Link>
-            </li>
           </ul>
         </div>
         <div className="footer--social--icon">
@@ -102,7 +89,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/manohar__26"
+                href="https://www.instagram.com/manohar_dev_"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
